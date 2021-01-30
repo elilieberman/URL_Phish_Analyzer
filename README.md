@@ -16,6 +16,7 @@ This script tests for several qualitative markers of a fake website
 or phishing scam, using the SUSPECTED URL. A single item may 
 not indicate malicious behavior, however the report contains 
 several measures, including:
+
     1. When the site was first registered, fake sites often lack history
     
     2. Presence of social media meta tags,versus phishers  
