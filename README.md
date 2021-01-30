@@ -4,17 +4,11 @@ URL Phishing Tool, Python code to check for malicious markers (work in progress)
 Technical notes:
 ===================
 A. Python, non-base libraries required: Selenium & Chromedriver
-https://www.tecmint.com/install-google-chrome-on-kali-linux/
 
 B. Selenium & chromedriver must be installed for complete results
 to be generated, remaining libraries are base Python.
  
 C. Code tested on Windows and Linux
-
-D. Test URLs:
-"https://sherlockshats.com/"
-"https://www.tzometcounseling.com/"
-
 
 Project Description
 =====================
